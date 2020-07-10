@@ -92,10 +92,10 @@
                                         <a class="nav-link" href="<?php echo site_url('rpl');?>">RPL</a>
                                         <a class="nav-link" href="<?php echo site_url('tkj');?>">TKJ</a>
                                         <a class="nav-link" href="<?php echo site_url('mm');?>">Multimedia</a>
-                                        <a class="nav-link" href="<?php echo site_url('tbsm');?>">TBSM</a>
+                                        <!-- <a class="nav-link" href="<?php echo site_url('tbsm');?>">TBSM</a>
                                         <a class="nav-link" href="<?php echo site_url('Akutansi');?>">Akutansi</a>
                                         <a class="nav-link" href="<?php echo site_url('tatabusana');?>">Tata Busana</a>
-                                        <a class="nav-link" href="<?php echo site_url('tataboga');?>">Tata Boga</a>
+                                        <a class="nav-link" href="<?php echo site_url('tataboga');?>">Tata Boga</a> -->
 
                                     </div>
                                 </li>
