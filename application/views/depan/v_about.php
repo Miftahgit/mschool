@@ -34,19 +34,19 @@
                             <span class="icon-phone"></span>00 55 22 66
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-envelope-open"></span>wawadutan@gmail.com
+                            <span class="icon-envelope-open"></span>sukapura@gmail.com
                         </div>
                         <div class="header-top_list">
-                            <span class="icon-location-pin"></span>singaparna
+                            <span class="icon-location-pin"></span>Cikalapa - Tanjungjaya - Kab Tasikmalaya
                         </div>
                     </div>
                     <div class="header-top_login2">
-                        <a href="<?php echo site_url('contact');?>">anak sayang</a>
+                        <a href="<?php echo site_url('contact');?>">Hubungi Kami</a>
                     </div>
                 </div>
                 <div class="col-xs-6 col-sm-4 col-md-3">
                     <div class="header-top_login mr-sm-3">
-                        <a href="<?php echo site_url('contact');?>">anak sayang</a>
+                        <a href="<?php echo site_url('contact');?>">Hubungi Kami</a>
                     </div>
                 </div>
             </div>
@@ -84,12 +84,7 @@
                                     <div class="dropdown-menu" aria-labelledby="dropdown-a">
                                         <a class="nav-link" href="<?php echo site_url('Exekutif');?>">Exekutif</a>
                                         <a class="nav-link" href="<?php echo site_url('rpl');?>">RPL</a>
-                                        <a class="nav-link" href="<?php echo site_url('tkj');?>">TKJ</a>
-                                        <a class="nav-link" href="<?php echo site_url('mm');?>">Multimedia</a>
-                                        <a class="nav-link" href="<?php echo site_url('tbsm');?>">TBSM</a>
-                                        <a class="nav-link" href="<?php echo site_url('Akutansi');?>">Akutansi</a>
-                                        <a class="nav-link" href="<?php echo site_url('tatabusana');?>">Tata Busana</a>
-                                        <a class="nav-link" href="<?php echo site_url('tataboga');?>">Tata Boga</a>
+                                       
 
                                     </div>
                                 </li>
